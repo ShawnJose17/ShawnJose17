@@ -1,51 +1,47 @@
 <h1 align="center">Hi 👋, I'm Shawn Jose</h1>
 <h3 align="center">Self-taught frontend developer & web enthusiast from India</h3>
 
-- 🔭 I’m currently working on:
-      -> **My personal portfolio website
-      -> Experimental programming projects
+- 🔭 I’m currently working on:<br>
+      -> **My personal portfolio website<br>
+      -> Experimental programming projects<br>
       -> A personal AI assistant while learning the foundations of Machine Learning, Large Language Models, and Natural Language Processing**
 
-- 🌱 I’m currently learning:
-      -> **Frontend engineering beyond basics
-      -> Machine Learning, LLMs, and NLP (foundational level)
-      -> Cybersecurity fundamentals
+- 🌱 I’m currently learning:<br>
+      -> **Frontend engineering beyond basics<br>
+      -> Machine Learning, LLMs, and NLP (foundational level)<br>
+      -> Cybersecurity fundamentals<br>
       -> Building systems through hands-on experimentation**
 
-- 👯 I’m looking to collaborate on: 
-      -> **Open-source frontend projects
-      -> UI/UX-focused web applications
-      -> Student projects or hackathons
-      -> Exploratory projects in Artificial Intelligence
+- 👯 I’m looking to collaborate on: <br>
+      -> **Open-source frontend projects<br>
+      -> UI/UX-focused web applications<br>
+      -> Student projects or hackathons<br><br>
+      -> Exploratory projects in Artificial Intelligence<br>
       (Being a student my availability is limited, but I’m open to meaningful work.)**
 
-- 🤝 I’m looking for help with:
-      -> **Advanced React patterns
-      -> Backend integration with frontend applications
-      -> Clean and scalable project architecture
+- 🤝 I’m looking for help with:<br>
+      -> **Advanced React patterns<br>
+      -> Backend integration with frontend applications<br>
+      -> Clean and scalable project architecture<br>
       -> Performance optimization and best practices**
 
-- 👨‍💻 All of my projects are available at:
+- 👨‍💻 All of my projects are available at:<br>
       **GitHub**: github.com/ShawnJose17 (portfolio website currently under development)
 
 - 📝 Planning to publish on Medium, Dev.to, and my personal website (coming soon)
 
-- 💬 Ask me about:
-      -> **Practical frontend development workflows
-      -> Writing clean HTML, CSS, and JavaScript
+- 💬 Ask me about:<br>
+      -> **Practical frontend development workflows<br>
+      -> Writing clean HTML, CSS, and JavaScript<br>
       -> Version control, GitHub practices, and project organization**
 
-- 📫 To reach me:
-      -> **Email: shawnjose15@gmail.com
+- 📫 To reach me:<br>
+      -> **Email: shawnjose15@gmail.com<br>
       -> LinkedIn: www.linkedin.com/in/shawnjoseverghese**
 
 - 📄 Know about my experiences @ www.linkedin.com/in/shawnjoseverghese
 
 - ⚡ Fun fact **I break things just to understand how they work.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
