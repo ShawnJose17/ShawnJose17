@@ -62,7 +62,7 @@
 <a href="https://codesandbox.com/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shawnjose21" height="30" width="40" /></a>
 <a href="https://medium.com/@shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shawnjose21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shawnjose21" height="30" width="40" /></a>
-</p>
+</p> <br>
 
 <h3 align="center">Languages and Tools:</h3>
 <h5 align="center">Programming Languages:</h5>
@@ -106,7 +106,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/bash-icon1720765792.logowik.com.webp" alt="bash" width="40" height="40"/> </a> </p>
 
-<h5 align="center">Backend as a Service(BaaS):</h5>
+<h5 align="center">Backend as a Service (BaaS):</h5>
 <p align="center">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
@@ -139,13 +139,13 @@
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p> <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnjose17&show_icons=true&locale=en&layout=compact" alt="shawnjose17" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p> <br>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting;" />
