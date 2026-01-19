@@ -48,9 +48,9 @@
 - ⚡ Fun fact **I break things just to understand how they work.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="gap: 10%">
+<p align="left">
 <a href="https://codepen.io/shawn-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shawn-jose" height="30" width="40" /></a>
-<a href="https://dev.to/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shawnjose21" height="30" width="40" /></a>
+<a href="https://dev.to/shawnjose21" target="blank"><img style="margin-left: 50px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shawnjose21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shawnjoseverghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawnjoseverghese" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/32225171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32225171" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shawnjose21" height="30" width="40" /></a>
@@ -139,4 +139,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p>
