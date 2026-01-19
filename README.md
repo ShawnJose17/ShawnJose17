@@ -164,6 +164,12 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting;" />
 </h1>
