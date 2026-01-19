@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences @ <a href="https://www.linkedin.com/in/shawnjoseverghese/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 
-- ⚡ Fun fact **I break things just to understand how they work.**
+- ⚡ Fun fact: **I break things just to understand how they work.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
