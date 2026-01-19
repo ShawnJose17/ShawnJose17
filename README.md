@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on: <br>
       -> **Open-source frontend projects<br>
       -> UI/UX-focused web applications<br>
-      -> Student projects or hackathons<br><br>
+      -> Student projects or hackathons<br>
       -> Exploratory projects in Artificial Intelligence<br>
       (Being a student my availability is limited, but I’m open to meaningful work.)**
 
