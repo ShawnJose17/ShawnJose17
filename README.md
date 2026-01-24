@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shawn+Jose!;" />
 </h1>
-<h3 align="center">Self-taught frontend developer & web enthusiast from India</h3>
+<h3 align="center">Self-taught developer & web enthusiast from India</h3>
 
 - 🔭 I’m currently working on:<br>
       -> **My personal portfolio website<br>
@@ -11,13 +11,13 @@
       -> A personal AI assistant while learning the foundations of Machine Learning, Large Language Models, and Natural Language Processing**
 
 - 🌱 I’m currently learning:<br>
-      -> **Frontend engineering beyond basics<br>
+      -> **Web engineering beyond basics<br>
       -> Machine Learning, LLMs, and NLP (foundational level)<br>
       -> Cybersecurity fundamentals<br>
       -> Building systems through hands-on experimentation**
 
 - 👯 I’m looking to collaborate on: <br>
-      -> **Open-source frontend projects<br>
+      -> **Open-source projects<br>
       -> UI/UX-focused web applications<br>
       -> Student projects or hackathons<br>
       -> Exploratory projects in Artificial Intelligence<br>
@@ -35,7 +35,7 @@
 - 📝 Planning to publish on Medium, Dev.to, and my personal website (coming soon)
 
 - 💬 Ask me about:<br>
-      -> **Practical frontend development workflows<br>
+      -> **Practical web development workflows<br>
       -> Writing clean HTML, CSS, and JavaScript<br>
       -> Version control, GitHub practices, and project organization**
 
