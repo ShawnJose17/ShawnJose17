@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shawwnjose17.shawnjose17" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shawn+Jose!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Joseph!;" />
 </h1>
 <h3 align="center">Self-taught developer & web enthusiast from India</h3>
 
@@ -41,9 +41,6 @@
 
 - 📫 To reach me:<br>
       <a href="mailto: shawnjose15@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-      <a href="https://www.linkedin.com/in/shawnjoseverghese/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-
-- 📄 Know about my experiences @ <a href="https://www.linkedin.com/in/shawnjoseverghese/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 
 - ⚡ Fun fact: **I break things just to understand how they work.**
 
@@ -52,8 +49,6 @@
 <a href="https://codepen.io/shawn-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shawn-jose" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shawnjose21" height="30" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shawnjoseverghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawnjoseverghese" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/32225171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32225171" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
